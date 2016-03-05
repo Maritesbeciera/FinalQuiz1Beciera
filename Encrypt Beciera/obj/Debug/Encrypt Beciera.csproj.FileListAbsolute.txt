@@ -1,0 +1,9 @@
+C:\Users\Thunder\Desktop\Encrypt Beciera\Encrypt Beciera\bin\Debug\Encrypt Beciera.exe.config
+C:\Users\Thunder\Desktop\Encrypt Beciera\Encrypt Beciera\bin\Debug\Encrypt Beciera.exe
+C:\Users\Thunder\Desktop\Encrypt Beciera\Encrypt Beciera\bin\Debug\Encrypt Beciera.pdb
+C:\Users\Thunder\Desktop\Encrypt Beciera\Encrypt Beciera\obj\Debug\Encrypt Beciera.csprojResolveAssemblyReference.cache
+C:\Users\Thunder\Desktop\Encrypt Beciera\Encrypt Beciera\obj\Debug\Encrypt_Beciera.Form1.resources
+C:\Users\Thunder\Desktop\Encrypt Beciera\Encrypt Beciera\obj\Debug\Encrypt_Beciera.Properties.Resources.resources
+C:\Users\Thunder\Desktop\Encrypt Beciera\Encrypt Beciera\obj\Debug\Encrypt Beciera.csproj.GenerateResource.Cache
+C:\Users\Thunder\Desktop\Encrypt Beciera\Encrypt Beciera\obj\Debug\Encrypt Beciera.exe
+C:\Users\Thunder\Desktop\Encrypt Beciera\Encrypt Beciera\obj\Debug\Encrypt Beciera.pdb
